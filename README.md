@@ -67,15 +67,7 @@ I'm a Second Year Computer Science & AI student at the **University of Sheffield
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Shadowblades746&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shadowblades746&theme=radical" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shadowblades746&layout=compact&theme=radical" alt="Top Languages" />
+  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-eosin-zeta.vercel.app?user=shadowblades746&theme=radical" alt="GitHub Streak" /></a>
 </p>
 
 ---
