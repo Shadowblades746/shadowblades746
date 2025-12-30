@@ -24,7 +24,7 @@ I'm a Second Year Computer Science & AI student at the **University of Sheffield
 
 ## 🏆 Highlights
 
-- 🥇 **HackSheffield10 People's Choice Award** for Clash Royale Deck Analyser
+- 🥇 **HackSheffield10 People's Choice Award** for Clash Royale Deck Analyzer
 - 👥 Led a 6-person team for **Engineering Without Borders - Global Engineering Challenge Week**
 - 💼 Experience across **full-stack web dev, ML, game dev, and interactive front-end applications**
 
